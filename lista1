@@ -131,6 +131,8 @@ http://ppns.io:80/16829025/73897/25313
 http://ppns.io:80/16829025/73897/18709
 #EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
 http://ppns.io:80/16829025/73897/18710
+#EXTINF:-1 type="stream" tvg-id="CNN BRASIL" tvg-logo="http://img.kudaplay.com/1584422036_CNN_Brasil.png" group-title="Notícia",CNN BRASIL
+http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=3eb9f8673a79e545e01347fba3604026
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CNN INTERNACIONAL SD
 http://ppns.io:80/16829025/73897/26438
 #EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | Esportes",Combate FHD
