@@ -131,8 +131,6 @@ http://ppns.io:80/16829025/73897/25313
 http://ppns.io:80/16829025/73897/18709
 #EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
 http://ppns.io:80/16829025/73897/18710
-#EXTINF:-1 type="stream" tvg-id="CNN BRASIL" tvg-logo="http://img.kudaplay.com/1584422036_CNN_Brasil.png" group-title="Notícia",CNN BRASIL
-http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=3eb9f8673a79e545e01347fba3604026
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CNN INTERNACIONAL SD
 http://ppns.io:80/16829025/73897/26438
 #EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | Esportes",Combate FHD
@@ -167,8 +165,6 @@ http://ppns.io:80/16829025/73897/26195
 http://ppns.io:80/16829025/73897/26197
 #EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 3
 http://ppns.io:80/16829025/73897/26196
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",DIGI 24 HD
-http://ppns.io:80/16829025/73897/28042
 #EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | Documentários",Discovery Channel FHD
 http://ppns.io:80/16829025/73897/18783
 #EXTINF:-1 tvg-logo="http://z4.vc/0v1" group-title="Canais | Documentários",Discovery Channel FHD [H265]
@@ -1343,3 +1339,269 @@ http://ppns.io:80/16829025/73897/22127
 http://ppns.io:80/16829025/73897/18511
 #EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
 http://ppns.io:80/16829025/73897/18512
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Futura FHD
+http://ppns.io:80/16829025/73897/28198
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",ZooMoo SD
+http://ppns.io:80/16829025/73897/28199
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 1 HD
+http://ppns.io:80/16829025/73897/28377
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 2 HD
+http://ppns.io:80/16829025/73897/28378
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 3 HD
+http://ppns.io:80/16829025/73897/28379
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Ei Plus 01 [Champions League]
+http://ppns.io:80/16829025/73897/28380
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Ei Plus 02 [Champions League]
+http://ppns.io:80/16829025/73897/28381
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Ei Plus 03 [Champions League]
+http://ppns.io:80/16829025/73897/28382
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Ei Plus 04 [Champions League]
+http://ppns.io:80/16829025/73897/28383
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Ei Plus 05 [Champions League]
+http://ppns.io:80/16829025/73897/28384
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Ei Plus 06 [Champions League]
+http://ppns.io:80/16829025/73897/28385
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Libertadores HD
+http://ppns.io:80/16829025/73897/28386
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 4
+http://ppns.io:80/16829025/73897/28387
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 5
+http://ppns.io:80/16829025/73897/28388
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 6
+http://ppns.io:80/16829025/73897/28389
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Globo Esporte HD
+http://ppns.io:80/16829025/73897/28376
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Brasilia FHD
+http://ppns.io:80/16829025/73897/28390
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Mato Grosso HD
+http://ppns.io:80/16829025/73897/28393
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Mato Grosso FHD
+http://ppns.io:80/16829025/73897/28394
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza HD
+http://ppns.io:80/16829025/73897/28395
+#EXTINF:-1 tvg-logo="http://z4.vc/kgB" group-title="Canais | Jogos & Eventos",Guia De Jogos
+http://ppns.io:80/16829025/73897/28396
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Ideal  TV FHD
+http://ppns.io:80/16829025/73897/28397
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel FHD
+http://ppns.io:80/16829025/73897/28398
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",E FHD
+http://ppns.io:80/16829025/73897/28399
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Euro Channel FHD
+http://ppns.io:80/16829025/73897/28400
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Life Time FHD
+http://ppns.io:80/16829025/73897/28401
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Life Time SD
+http://ppns.io:80/16829025/73897/28402
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",RIT SD
+http://ppns.io:80/16829025/73897/28403
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Shop Time HD
+http://ppns.io:80/16829025/73897/28404
+#EXTINF:-1 tvg-logo="http://z4.vc/Kvw" group-title="Canais | Abertos",RecordTV Sao Jose Rio Preto HD
+http://ppns.io:80/16829025/73897/29021
+#EXTINF:-1 tvg-logo="http://z4.vc/4S2" group-title="Canais | 4K",Telecine Premium [4K]
+http://ppns.io:80/16829025/73897/32410
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Abertos",Globo Inter TV Cabugi SD
+http://ppns.io:80/16829025/73897/33380
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM002] HD
+http://ppns.io:80/16829025/73897/43533
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil  MOSAICO
+http://ppns.io:80/16829025/73897/43534
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM002] FHD
+http://ppns.io:80/16829025/73897/43543
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM010] SD
+http://ppns.io:80/16829025/73897/43545
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM010] HD
+http://ppns.io:80/16829025/73897/43546
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM009] SD
+http://ppns.io:80/16829025/73897/43547
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM009] HD
+http://ppns.io:80/16829025/73897/43548
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM008] SD
+http://ppns.io:80/16829025/73897/43549
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM008] HD
+http://ppns.io:80/16829025/73897/43550
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM005] HD
+http://ppns.io:80/16829025/73897/43551
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM005] SD
+http://ppns.io:80/16829025/73897/43552
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM006] SD
+http://ppns.io:80/16829025/73897/43553
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM006] HD
+http://ppns.io:80/16829025/73897/43554
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM007] SD
+http://ppns.io:80/16829025/73897/43718
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM007] HD
+http://ppns.io:80/16829025/73897/43719
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM004] HD
+http://ppns.io:80/16829025/73897/43720
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM004] SD
+http://ppns.io:80/16829025/73897/43721
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM003] SD
+http://ppns.io:80/16829025/73897/43722
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM003] HD
+http://ppns.io:80/16829025/73897/43723
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Catarinense 01 HD
+http://ppns.io:80/16829025/73897/43793
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Libertadores
+http://ppns.io:80/16829025/73897/43794
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Catarinense 02 HD
+http://ppns.io:80/16829025/73897/43795
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 01 [PRIME]
+http://ppns.io:80/16829025/73897/43797
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Catarinense 01
+http://ppns.io:80/16829025/73897/43734
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Catarinense 02
+http://ppns.io:80/16829025/73897/43735
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Catarinense 03 HD
+http://ppns.io:80/16829025/73897/43802
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Catarinense 04 HD
+http://ppns.io:80/16829025/73897/43803
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Tooncast [ALTER] SD
+http://ppns.io:80/16829025/73897/43814
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | 4K",HBO [4K]
+http://ppns.io:80/16829025/73897/43815
+#EXTINF:-1 tvg-logo="http://z4.vc/1cS" group-title="Canais | Variedades",Discovery Turbo FHD [H265] [ALTER]
+http://ppns.io:80/16829025/73897/43013
+#EXTINF:-1 tvg-logo="http://z4.vc/oAo" group-title="Canais | Variedades",Discovery Turbo FHD [ALTER]
+http://ppns.io:80/16829025/73897/43010
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo HD [ALTER]
+http://ppns.io:80/16829025/73897/43011
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo SD [ALTER]
+http://ppns.io:80/16829025/73897/43012
+#EXTINF:-1 tvg-logo="http://z4.vc/rxr" group-title="Canais | Globo",Globo SP [ALTER] FHD
+http://ppns.io:80/16829025/73897/43880
+#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo SP [ALTER] HD
+http://ppns.io:80/16829025/73897/43881
+#EXTINF:-1 tvg-logo="http://z4.vc/tlB" group-title="Canais | Globo",Globo SP [ALTER] SD
+http://ppns.io:80/16829025/73897/43882
+#EXTINF:-1 tvg-logo="http://z4.vc/A4M" group-title="Canais | Filmes e Séries",FX [ALTER] FHD
+http://ppns.io:80/16829025/73897/43883
+#EXTINF:-1 tvg-logo="http://z4.vc/2HU" group-title="Canais | Globo",Globo TV Bahia HD [ALTER]
+http://ppns.io:80/16829025/73897/43884
+#EXTINF:-1 tvg-logo="http://z4.vc/2HU" group-title="Canais | Globo",Globo TV Bahia SD [ALTER]
+http://ppns.io:80/16829025/73897/43885
+#EXTINF:-1 tvg-logo="http://z4.vc/5Kj" group-title="Canais | Globo",Globo NSC TV Florianopolis HD [ALTER]
+http://ppns.io:80/16829025/73897/43886
+#EXTINF:-1 tvg-logo="http://z4.vc/5Kj" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD [ALTER]
+http://ppns.io:80/16829025/73897/43887
+#EXTINF:-1 tvg-logo="http://z4.vc/LLN" group-title="Canais | Jogos & Eventos",Planeta Atlantida 2020
+http://ppns.io:80/16829025/73897/43888
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Al Hurra [Emirados Arabes]
+http://ppns.io:80/16829025/73897/43889
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",France 24 [Franca]
+http://ppns.io:80/16829025/73897/43891
+#EXTINF:-1 tvg-logo="http://z4.vc/hvU" group-title="Canais | Esportes",ESPN Brasil HD [ALTER]
+http://ppns.io:80/16829025/73897/43790
+#EXTINF:-1 tvg-logo="http://z4.vc/hvU" group-title="Canais | Esportes",ESPN Brasil SD [ALTER]
+http://ppns.io:80/16829025/73897/43892
+#EXTINF:-1 tvg-logo="http://z4.vc/yGS" group-title="Canais | Esportes",ESPN SD [ALTER]
+http://ppns.io:80/16829025/73897/43895
+#EXTINF:-1 tvg-logo="http://z4.vc/gWv" group-title="Canais | Esportes",ESPN HD [ALTER]
+http://ppns.io:80/16829025/73897/43894
+#EXTINF:-1 tvg-logo="http://z4.vc/yGS" group-title="Canais | Esportes",ESPN FHD [ALTER]
+http://ppns.io:80/16829025/73897/43896
+#EXTINF:-1 tvg-logo="http://z4.vc/GbD" group-title="Canais | Esportes",ESPN FHD [H265] [ALTER]
+http://ppns.io:80/16829025/73897/43897
+#EXTINF:-1 tvg-logo="http://z4.vc/HlB" group-title="Canais | Filmes e Séries",Universal Channel SD [ALTER]
+http://ppns.io:80/16829025/73897/43898
+#EXTINF:-1 tvg-logo="http://z4.vc/HlB" group-title="Canais | Filmes e Séries",Universal Channel HD [ALTER]
+http://ppns.io:80/16829025/73897/43899
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Ao-vivo HD
+http://ppns.io:80/16829025/73897/45090
+#EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT FHD [H26] [ALTER]
+http://ppns.io:80/16829025/73897/45094
+#EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT SD [ALTER]
+http://ppns.io:80/16829025/73897/45093
+#EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT FHD [ALTER]
+http://ppns.io:80/16829025/73897/45092
+#EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT HD [ALTER]
+http://ppns.io:80/16829025/73897/45091
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 7
+http://ppns.io:80/16829025/73897/45095
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports HD [ALTER]
+http://ppns.io:80/16829025/73897/45116
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports SD [ALTER]
+http://ppns.io:80/16829025/73897/45117
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports FHD [H265] [ALTER]
+http://ppns.io:80/16829025/73897/45118
+#EXTINF:-1 tvg-logo="http://z4.vc/HLw" group-title="Canais | Abertos",TV Senado SD [ALTER]
+http://ppns.io:80/16829025/73897/45131
+#EXTINF:-1 tvg-logo="http://z4.vc/VtA" group-title="Canais | Abertos",TV Justica SH [ALTER]
+http://ppns.io:80/16829025/73897/45132
+#EXTINF:-1 tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD [ALTER]
+http://ppns.io:80/16829025/73897/45133
+#EXTINF:-1 tvg-logo="http://z4.vc/cmn" group-title="Canais | Filmes e Séries",Max FHD [H265] [ALTER]
+http://ppns.io:80/16829025/73897/45134
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO Mundi SD
+http://ppns.io:80/16829025/73897/45135
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO Mundi FHD
+http://ppns.io:80/16829025/73897/45136
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO MUNDI HD[ALTER]
+http://ppns.io:80/16829025/73897/45137
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO Mundi FHD[ALTER]
+http://ppns.io:80/16829025/73897/45138
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO Mundi FHD[H265]
+http://ppns.io:80/16829025/73897/45139
+#EXTINF:-1 tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD [ALTER]
+http://ppns.io:80/16829025/73897/45140
+#EXTINF:-1 tvg-logo="http://z4.vc/Zzp" group-title="Canais | Filmes e Séries",Max Prime FHD [H265][ALTER]
+http://ppns.io:80/16829025/73897/45141
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO XTREME FHD
+http://ppns.io:80/16829025/73897/45142
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO XTREME FHD[ALTER]
+http://ppns.io:80/16829025/73897/45143
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO XTREME HD
+http://ppns.io:80/16829025/73897/45144
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO XTREME HD[ALTER]
+http://ppns.io:80/16829025/73897/45145
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO XTREME SD
+http://ppns.io:80/16829025/73897/45146
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO POP SD
+http://ppns.io:80/16829025/73897/45147
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO POP HD
+http://ppns.io:80/16829025/73897/45148
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO POP FHD
+http://ppns.io:80/16829025/73897/45149
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO POP FHD [H265]
+http://ppns.io:80/16829025/73897/45150
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO POP FHD [ALTER]
+http://ppns.io:80/16829025/73897/45151
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO POP HD [ALTER]
+http://ppns.io:80/16829025/73897/45152
+#EXTINF:-1 tvg-logo="http://z4.vc/2zo" group-title="Canais | Esportes",ESPN Brasil FHD [H265] [ALTER]
+http://ppns.io:80/16829025/73897/45153
+#EXTINF:-1 tvg-logo="http://z4.vc/vUq" group-title="Canais | Abertos",RecordTV SP FHD [ALTER]
+http://ppns.io:80/16829025/73897/45154
+#EXTINF:-1 tvg-logo="http://z4.vc/vUq" group-title="Canais | Abertos",RecordTV SP HD [ALTER]
+http://ppns.io:80/16829025/73897/45155
+#EXTINF:-1 tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD [ALTER]
+http://ppns.io:80/16829025/73897/45156
+#EXTINF:-1 tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP FHD [H265][ALTER]
+http://ppns.io:80/16829025/73897/45157
+#EXTINF:-1 tvg-logo="http://z4.vc/qPi" group-title="Canais | Abertos",RecordTV VITORIA ES SD
+http://ppns.io:80/16829025/73897/45158
+#EXTINF:-1 tvg-logo="http://z4.vc/qPi" group-title="Canais | Abertos",RecordTV VITORIA ES HD
+http://ppns.io:80/16829025/73897/45159
+#EXTINF:-1 tvg-logo="http://z4.vc/qPi" group-title="Canais | Abertos",RecordTV VITORIA ES FHD
+http://ppns.io:80/16829025/73897/45160
+#EXTINF:-1 tvg-logo="" group-title="Canais | Premiere",Premiere Clubes FHD [H265][ALTER]
+http://ppns.io:80/16829025/73897/45171
+#EXTINF:-1 tvg-logo="http://z4.vc/A2U" group-title="Canais | Premiere",Premiere Clubes HD[ALTER]
+http://ppns.io:80/16829025/73897/45172
+#EXTINF:-1 tvg-logo="http://z4.vc/A2U" group-title="Canais | Premiere",Premiere Clubes SD[ALTER]
+http://ppns.io:80/16829025/73897/45173
+#EXTINF:-1 tvg-logo="http://z4.vc/qUw" group-title="Canais | Variedades",Comedy Central HD [ALTER] 
+http://ppns.io:80/16829025/73897/42990
+#EXTINF:-1 tvg-logo="http://z4.vc/RrZ" group-title="Canais | Variedades",Comedy Central SD [ALTER]
+http://ppns.io:80/16829025/73897/42989
+#EXTINF:-1 tvg-logo="http://z4.vc/0Ww" group-title="Canais | Variedades",Comedy Central FHD [H265] [ALTER]
+http://ppns.io:80/16829025/73897/42988
+#EXTINF:-1 tvg-logo="http://z4.vc/cbo" group-title="Canais | Variedades",Canal Rural SD [ALTER]
+http://ppns.io:80/16829025/73897/47321
+#EXTINF:-1 tvg-logo="http://z4.vc/C3a" group-title="Canais | Variedades",Canal Rural SD
+http://ppns.io:80/16829025/73897/47322
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Canal do Boi
+http://ppns.io:80/16829025/73897/47323
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Canal do Boi SD [ALTER]
+http://ppns.io:80/16829025/73897/47324
