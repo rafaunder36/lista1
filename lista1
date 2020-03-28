@@ -133,6 +133,22 @@ http://ppns.io:80/16829025/73897/18709
 http://ppns.io:80/16829025/73897/18710
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CNN INTERNACIONAL SD
 http://ppns.io:80/16829025/73897/26438
+#EXTINF:-1 tvg-logo="http://z4.vc/77a" group-title="Canais | Notícias",CNN Brasil HD
+http://ppns.io:80/16829025/73897/47358
+#EXTINF:-1 tvg-logo="http://z4.vc/Ibt" group-title="Canais | Notícias",CNN Brasil SD
+http://ppns.io:80/16829025/73897/47359
+#EXTINF:-1 tvg-logo="http://z4.vc/g7E" group-title="Canais | Notícias",CNN Brasil FHD
+http://ppns.io:80/16829025/73897/47357
+#EXTINF:-1 tvg-logo="http://z4.vc/9q5" group-title="Canais | Notícias",CNN Brasil FHD[H265]
+http://ppns.io:80/16829025/73897/47360
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Brasil FHD[ALTER]
+http://ppns.io:80/16829025/73897/48248
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Brasil HD[ALTER]
+http://ppns.io:80/16829025/73897/48249
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Brasil SD[ALTER]
+http://ppns.io:80/16829025/73897/48250
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Brasil [OFFICIAL]
+http://ppns.io:80/16829025/73897/48251
 #EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | Esportes",Combate FHD
 http://ppns.io:80/16829025/73897/18784
 #EXTINF:-1 tvg-logo="http://z4.vc/na3" group-title="Canais | Esportes",Combate FHD [H265]
