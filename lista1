@@ -3,6 +3,18 @@
 http://ppns.io:80/16829025/73897/18415
 #EXTINF:-1 tvg-logo="http://z4.vc/CpN" group-title="Canais | Globo",Globo RJ HD
 http://ppns.io:80/16829025/73897/18416
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | Abertos",RecordTV Rio FHD
+http://ppns.io:80/16829025/73897/18748
+#EXTINF:-1 tvg-logo="http://z4.vc/iZP" group-title="Canais | Abertos",RecordTV Rio HD
+http://ppns.io:80/16829025/73897/18503
+#EXTINF:-1 tvg-logo="http://z4.vc/oyy" group-title="Canais | Abertos",SBT RJ HD
+http://ppns.io:80/16829025/73897/22458
+#EXTINF:-1 tvg-logo="http://z4.vc/jeQ" group-title="Canais | Notícias",BandNews FHD
+http://ppns.io:80/16829025/73897/18853
+#EXTINF:-1 tvg-logo="http://z4.vc/g7E" group-title="Canais | Notícias",CNN Brasil FHD
+http://ppns.io:80/16829025/73897/47357
+#EXTINF:-1 tvg-logo="http://z4.vc/qOs" group-title="Canais | Notícias",Globo News FHD
+http://ppns.io:80/16829025/73897/18776
 #EXTINF:-1 tvg-logo="http://z4.vc/cEF" group-title="Canais | Variedades",Discovery H&H FHD
 http://ppns.io:80/16829025/73897/18844
 #EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
@@ -502,8 +514,6 @@ http://ppns.io:80/16829025/73897/25209
 http://ppns.io:80/16829025/73897/18425
 #EXTINF:-1 tvg-logo="http://z4.vc/ep1" group-title="Canais | Globo",Globo Minas SD
 http://ppns.io:80/16829025/73897/18426
-#EXTINF:-1 tvg-logo="http://z4.vc/qOs" group-title="Canais | Notícias",Globo News FHD
-http://ppns.io:80/16829025/73897/18776
 #EXTINF:-1 tvg-logo="http://z4.vc/5tp" group-title="Canais | Notícias",Globo News FHD [H265]
 http://ppns.io:80/16829025/73897/22193
 #EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
@@ -1056,10 +1066,6 @@ http://ppns.io:80/16829025/73897/18501
 http://ppns.io:80/16829025/73897/22216
 #EXTINF:-1 tvg-logo="http://z4.vc/Kvw" group-title="Canais | Abertos",RecordTV PR HD
 http://ppns.io:80/16829025/73897/22471
-#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | Abertos",RecordTV Rio FHD
-http://ppns.io:80/16829025/73897/18748
-#EXTINF:-1 tvg-logo="http://z4.vc/iZP" group-title="Canais | Abertos",RecordTV Rio HD
-http://ppns.io:80/16829025/73897/18503
 #EXTINF:-1 tvg-logo="http://z4.vc/a0f" group-title="Canais | Abertos",RecordTV Rio SD
 http://ppns.io:80/16829025/73897/18502
 #EXTINF:-1 tvg-logo="http://z4.vc/IXu" group-title="Canais | Abertos",RecordTV RS HD
