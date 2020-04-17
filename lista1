@@ -23,6 +23,18 @@ http://ppns.io:80/65157698/9946/18699
 http://ppns.io:80/65157698/9946/18827
 #EXTINF:-1 tvg-logo="http://z4.vc/6ya" group-title="Canais | Variedades",GNT HD
 http://ppns.io:80/65157698/9946/18645
+#EXTINF:-1 tvg-logo="http://z4.vc/g7E" group-title="Canais | Notícias",CNN Brasil FHD
+http://ppns.io:80/65157698/9946/47357
+#EXTINF:-1 tvg-logo="http://z4.vc/77a" group-title="Canais | Notícias",CNN Brasil HD
+http://ppns.io:80/65157698/9946/47358
+#EXTINF:-1 tvg-logo="http://z4.vc/jeQ" group-title="Canais | Notícias",BandNews FHD
+http://ppns.io:80/65157698/9946/18853
+#EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
+http://ppns.io:80/65157698/9946/18725
+#EXTINF:-1 tvg-logo="http://z4.vc/qOs" group-title="Canais | Notícias",Globo News FHD
+http://ppns.io:80/65157698/9946/18776
+#EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
+http://ppns.io:80/65157698/9946/18651
 #EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM001] HD
 http://ppns.io:80/65157698/9946/27861
 #EXTINF:-1 tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
